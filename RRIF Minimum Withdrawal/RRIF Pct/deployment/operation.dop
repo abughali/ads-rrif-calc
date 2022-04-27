@@ -4,4 +4,13 @@
   <uuid>a0e4dcdd-ae87-4b4a-8d73-aacf02ccc2e1</uuid>
   <decisionModel href="../rules/decisionModel.dmo#34b58a2e-3698-495c-8ee9-7ee1db2ff280"/>
   <targetRuleProject href="../../RRIF%20Pct#d29e4b39-9ed8-4692-91d0-4a541d96ac94"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["RRIF-Pct"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
 </com.ibm.rules.studio.model.decisionservice:Operation>
