@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="RRIF Pct">
+  <name>RRIF-Pct</name>
+  <uuid>a0e4dcdd-ae87-4b4a-8d73-aacf02ccc2e1</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#34b58a2e-3698-495c-8ee9-7ee1db2ff280"/>
+  <targetRuleProject href="../../RRIF%20Pct#d29e4b39-9ed8-4692-91d0-4a541d96ac94"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
